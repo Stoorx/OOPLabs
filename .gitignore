@@ -1,3 +1,12 @@
+#VS files
+.vs/
+Debug/
+debug/
+Release/
+release/
+*.tlog
+*.log
+
 # Compiled Object files
 *.slo
 *.lo
